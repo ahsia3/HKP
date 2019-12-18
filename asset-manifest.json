@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/HKP/static/css/main.adb4acbb.chunk.css",
+    "main.css": "/HKP/static/css/main.76dc23d0.chunk.css",
     "main.js": "/HKP/static/js/main.1304b0b8.chunk.js",
     "main.js.map": "/HKP/static/js/main.1304b0b8.chunk.js.map",
     "runtime-main.js": "/HKP/static/js/runtime-main.ea14fb0f.js",
@@ -8,9 +8,9 @@
     "static/js/2.a2098c93.chunk.js": "/HKP/static/js/2.a2098c93.chunk.js",
     "static/js/2.a2098c93.chunk.js.map": "/HKP/static/js/2.a2098c93.chunk.js.map",
     "index.html": "/HKP/index.html",
-    "precache-manifest.d0a7d0979943ff73c64a3c6bfc4bd4a4.js": "/HKP/precache-manifest.d0a7d0979943ff73c64a3c6bfc4bd4a4.js",
+    "precache-manifest.fbfee5d2076da620adf70a2747781d8b.js": "/HKP/precache-manifest.fbfee5d2076da620adf70a2747781d8b.js",
     "service-worker.js": "/HKP/service-worker.js",
-    "static/css/main.adb4acbb.chunk.css.map": "/HKP/static/css/main.adb4acbb.chunk.css.map",
+    "static/css/main.76dc23d0.chunk.css.map": "/HKP/static/css/main.76dc23d0.chunk.css.map",
     "static/js/2.a2098c93.chunk.js.LICENSE": "/HKP/static/js/2.a2098c93.chunk.js.LICENSE",
     "static/media/App.css": "/HKP/static/media/HK-outside.3a6b2af1.png",
     "static/media/HKP-icon.png": "/HKP/static/media/HKP-icon.6721c144.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.ea14fb0f.js",
     "static/js/2.a2098c93.chunk.js",
-    "static/css/main.adb4acbb.chunk.css",
+    "static/css/main.76dc23d0.chunk.css",
     "static/js/main.1304b0b8.chunk.js"
   ]
 }
